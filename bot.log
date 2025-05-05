@@ -1,0 +1,81 @@
+2025-05-05 22:27:32,149 - __main__ - INFO - Бот запущен
+2025-05-05 22:27:32,513 - aiogram.dispatcher - INFO - Start polling
+2025-05-05 22:27:32,596 - aiogram.dispatcher - INFO - Run polling for bot @exp1111111_bot id=8136750299 - 'exp1_bot'
+2025-05-05 22:27:40,343 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-05 22:27:40,344 - __main__ - INFO - Бот остановлен
+2025-05-05 22:27:42,057 - aiogram.dispatcher - INFO - Polling stopped for bot @exp1111111_bot id=8136750299 - 'exp1_bot'
+2025-05-05 22:47:33,983 - __main__ - INFO - Бот запущен
+2025-05-05 22:47:34,494 - aiogram.dispatcher - INFO - Start polling
+2025-05-05 22:47:34,585 - aiogram.dispatcher - INFO - Run polling for bot @exp1111111_bot id=8136750299 - 'exp1_bot'
+2025-05-05 22:47:38,784 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-05 22:47:38,784 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8136750299)
+2025-05-05 22:47:44,417 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-05 22:47:44,418 - aiogram.dispatcher - WARNING - Sleep for 1.376848 seconds and try again... (tryings = 1, bot id = 8136750299)
+2025-05-05 22:47:50,718 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-05 22:47:50,718 - aiogram.dispatcher - WARNING - Sleep for 1.818302 seconds and try again... (tryings = 2, bot id = 8136750299)
+2025-05-05 22:47:57,926 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-05 22:47:57,926 - aiogram.dispatcher - WARNING - Sleep for 2.359753 seconds and try again... (tryings = 3, bot id = 8136750299)
+2025-05-05 22:48:06,325 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-05 22:48:06,325 - aiogram.dispatcher - WARNING - Sleep for 2.923428 seconds and try again... (tryings = 4, bot id = 8136750299)
+2025-05-05 22:48:13,196 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-05 22:48:13,196 - aiogram.dispatcher - WARNING - Sleep for 3.586320 seconds and try again... (tryings = 5, bot id = 8136750299)
+2025-05-05 22:48:21,623 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-05 22:48:21,623 - __main__ - INFO - Бот остановлен
+2025-05-05 22:48:21,827 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-05 22:48:21,827 - aiogram.dispatcher - WARNING - Sleep for 4.812736 seconds and try again... (tryings = 6, bot id = 8136750299)
+2025-05-05 22:48:22,189 - aiogram.dispatcher - INFO - Polling stopped for bot @exp1111111_bot id=8136750299 - 'exp1_bot'
+2025-05-05 22:49:03,583 - __main__ - INFO - Бот запущен
+2025-05-05 22:49:03,906 - aiogram.dispatcher - INFO - Start polling
+2025-05-05 22:49:03,993 - aiogram.dispatcher - INFO - Run polling for bot @exp1111111_bot id=8136750299 - 'exp1_bot'
+2025-05-05 22:49:09,424 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-05 22:49:09,424 - __main__ - INFO - Бот остановлен
+2025-05-05 22:49:10,028 - aiogram.dispatcher - INFO - Polling stopped for bot @exp1111111_bot id=8136750299 - 'exp1_bot'
+[36m2025-05-05 23:20:14,102[0m - [34m__main__[0m - [32mINFO[0m - [32mБот успешно запущен![0m
+[36m2025-05-05 23:20:14,485[0m - [34maiogram.dispatcher[0m - [32mINFO[0m - Start polling
+[36m2025-05-05 23:20:14,560[0m - [34maiogram.dispatcher[0m - [32mINFO[0m - Run polling for bot @exp1111111_bot id=8136750299 - 'exp1_bot'
+[36m2025-05-05 23:20:29,732[0m - [34maiogram.event[0m - [32mINFO[0m - Update id=588799693 is handled. Duration 296 ms by bot id=8136750299
+[36m2025-05-05 23:20:33,795[0m - [34maiogram.event[0m - [32mINFO[0m - Update id=588799694 is handled. Duration 155 ms by bot id=8136750299
+[36m2025-05-05 23:20:38,451[0m - [34maiogram.event[0m - [32mINFO[0m - Update id=588799695 is handled. Duration 202 ms by bot id=8136750299
+[36m2025-05-05 23:20:43,678[0m - [34maiogram.event[0m - [32mINFO[0m - Update id=588799696 is handled. Duration 157 ms by bot id=8136750299
+[36m2025-05-05 23:20:48,715[0m - [34maiogram.dispatcher[0m - [32mINFO[0m - Polling stopped
+[36m2025-05-05 23:20:48,715[0m - [34m__main__[0m - [32mINFO[0m - [31mБот остановлен[0m
+[36m2025-05-05 23:20:49,087[0m - [34maiogram.dispatcher[0m - [32mINFO[0m - Polling stopped for bot @exp1111111_bot id=8136750299 - 'exp1_bot'
+[36m2025-05-05 23:28:12,623[0m - [34m__main__[0m - [32mINFO[0m - [32mБот успешно запущен![0m
+[36m2025-05-05 23:28:12,962[0m - [34maiogram.dispatcher[0m - [32mINFO[0m - Start polling
+[36m2025-05-05 23:28:13,058[0m - [34maiogram.dispatcher[0m - [32mINFO[0m - Run polling for bot @exp1111111_bot id=8136750299 - 'exp1_bot'
+[36m2025-05-05 23:28:21,783[0m - [34maiogram.event[0m - [32mINFO[0m - Update id=588799697 is handled. Duration 265 ms by bot id=8136750299
+[36m2025-05-05 23:28:25,037[0m - [34maiogram.event[0m - [32mINFO[0m - Update id=588799698 is handled. Duration 108 ms by bot id=8136750299
+[36m2025-05-05 23:28:30,511[0m - [34maiogram.event[0m - [32mINFO[0m - Update id=588799699 is handled. Duration 219 ms by bot id=8136750299
+[36m2025-05-05 23:28:33,228[0m - [34maiogram.dispatcher[0m - [32mINFO[0m - Polling stopped
+[36m2025-05-05 23:28:33,232[0m - [34m__main__[0m - [32mINFO[0m - [31mБот остановлен[0m
+[36m2025-05-05 23:28:33,609[0m - [34maiogram.dispatcher[0m - [32mINFO[0m - Polling stopped for bot @exp1111111_bot id=8136750299 - 'exp1_bot'
+[36m2025-05-05 23:29:28,393[0m - [34m__main__[0m - [32mINFO[0m - [32mБот успешно запущен![0m
+[36m2025-05-05 23:29:28,734[0m - [34maiogram.dispatcher[0m - [32mINFO[0m - Start polling
+[36m2025-05-05 23:29:28,817[0m - [34maiogram.dispatcher[0m - [32mINFO[0m - Run polling for bot @exp1111111_bot id=8136750299 - 'exp1_bot'
+[36m2025-05-05 23:29:32,847[0m - [34maiogram.event[0m - [32mINFO[0m - Update id=588799700 is handled. Duration 266 ms by bot id=8136750299
+[36m2025-05-05 23:29:34,645[0m - [34maiogram.event[0m - [32mINFO[0m - Update id=588799701 is handled. Duration 125 ms by bot id=8136750299
+[36m2025-05-05 23:30:01,652[0m - [34maiogram.dispatcher[0m - [32mINFO[0m - Polling stopped
+[36m2025-05-05 23:30:01,653[0m - [34m__main__[0m - [32mINFO[0m - [31mБот остановлен[0m
+[36m2025-05-05 23:30:02,148[0m - [34maiogram.dispatcher[0m - [32mINFO[0m - Polling stopped for bot @exp1111111_bot id=8136750299 - 'exp1_bot'
+[36m2025-05-05 23:30:04,406[0m - [34m__main__[0m - [32mINFO[0m - [32mБот успешно запущен![0m
+[36m2025-05-05 23:30:04,738[0m - [34maiogram.dispatcher[0m - [32mINFO[0m - Start polling
+[36m2025-05-05 23:30:04,823[0m - [34maiogram.dispatcher[0m - [32mINFO[0m - Run polling for bot @exp1111111_bot id=8136750299 - 'exp1_bot'
+[36m2025-05-05 23:30:11,381[0m - [34maiogram.event[0m - [32mINFO[0m - Update id=588799702 is handled. Duration 280 ms by bot id=8136750299
+[36m2025-05-05 23:30:13,083[0m - [34maiogram.event[0m - [32mINFO[0m - Update id=588799703 is handled. Duration 188 ms by bot id=8136750299
+[36m2025-05-05 23:30:15,281[0m - [34maiogram.event[0m - [32mINFO[0m - Update id=588799704 is handled. Duration 217 ms by bot id=8136750299
+[36m2025-05-05 23:30:16,632[0m - [34maiogram.event[0m - [32mINFO[0m - Update id=588799705 is handled. Duration 202 ms by bot id=8136750299
+[36m2025-05-05 23:30:23,158[0m - [34maiogram.dispatcher[0m - [32mINFO[0m - Polling stopped
+[36m2025-05-05 23:30:23,159[0m - [34m__main__[0m - [32mINFO[0m - [31mБот остановлен[0m
+[36m2025-05-05 23:30:23,525[0m - [34maiogram.dispatcher[0m - [32mINFO[0m - Polling stopped for bot @exp1111111_bot id=8136750299 - 'exp1_bot'
+[36m2025-05-06 01:18:04,818[0m - [34m__main__[0m - [32mINFO[0m - [32mБот успешно запущен![0m
+[36m2025-05-06 01:24:25,759[0m - [34m__main__[0m - [32mINFO[0m - [32mБот успешно запущен![0m
+[36m2025-05-06 01:25:35,010[0m - [34m__main__[0m - [32mINFO[0m - [32mБот успешно запущен![0m
+[36m2025-05-06 01:27:32,416[0m - [34m__main__[0m - [32mINFO[0m - [32mБот успешно запущен![0m
+[36m2025-05-06 01:27:32,747[0m - [34maiogram.dispatcher[0m - [32mINFO[0m - Start polling
+[36m2025-05-06 01:27:32,833[0m - [34maiogram.dispatcher[0m - [32mINFO[0m - Run polling for bot @join_security_bro_bot id=8099770042 - 'join_security'
+[36m2025-05-06 01:27:32,980[0m - [34maiogram.event[0m - [32mINFO[0m - Update id=112962925 is not handled. Duration 0 ms by bot id=8099770042
+[36m2025-05-06 01:27:32,980[0m - [34maiogram.event[0m - [32mINFO[0m - Update id=112962926 is not handled. Duration 0 ms by bot id=8099770042
+[36m2025-05-06 01:27:33,279[0m - [34maiogram.event[0m - [32mINFO[0m - Update id=112962927 is handled. Duration 296 ms by bot id=8099770042
+[36m2025-05-06 01:27:48,141[0m - [34maiogram.dispatcher[0m - [32mINFO[0m - Polling stopped
+[36m2025-05-06 01:27:48,142[0m - [34m__main__[0m - [32mINFO[0m - [31mБот остановлен[0m
+[36m2025-05-06 01:27:48,501[0m - [34maiogram.dispatcher[0m - [32mINFO[0m - Polling stopped for bot @join_security_bro_bot id=8099770042 - 'join_security'
